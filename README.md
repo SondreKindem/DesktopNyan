@@ -86,6 +86,10 @@ Run the tests with:
 dotnet test
 ```
 
+## Licence
+
+The code is released into the public domain under [The Unlicense](LICENSE): do whatever you like with it, no attribution needed.
+
 ## Credits
 
-A fan project, not affiliated with or endorsed by the creators of Nyan Cat or Desktop Goose.
+A fan project, not affiliated with or endorsed by the creators of Nyan Cat or Desktop Goose. The licence above covers this project's code; it does not grant any rights to the Nyan Cat character itself.
